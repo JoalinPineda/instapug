@@ -45,7 +45,7 @@
   </div>
   <div class="Share-content">
     <a
-      href="https://www.facebook.com/sharer/sharer.php?&u=https://pugstagram.co"
+      href="https://www.facebook.com/"
       target="_blank">
       <i class="fab fa-facebook-square" />
       Compartir en Facebook
